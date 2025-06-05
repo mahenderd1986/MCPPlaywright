@@ -1,5 +1,5 @@
 {
-    "start_browser": ["browser", "headless"],
+    "start_browser": ["browser", "headed"],
     "navigate": ["url"],
     "find_element": ["by", "value", "timeout"],
     "click_element": ["by", "value", "timeout"],
